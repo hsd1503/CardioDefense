@@ -1,6 +1,8 @@
 ## Introduction
 These codes are used in "DEFENDING AGAINST ADVERSARIAL ATTACK IN ECG CLASSIFICATION WITH ADVERSARIAL DISTILLATION TRAINING", and they can be roughly divided into two categories: the first part is those codes which build the classification DNNs with or without defense methods, and the second part is those codes which attack the trained DNNs with different kinds of attacks, including SAP, PGD and boundary attack. Meanwhile, we run the experiments in python 3.7.6 and pytorch 1.7.1. 
 
+Jiahao Shao, Shijia Geng, Zhaoji Fu, Weilun Xu, Tong Liu, and Shenda Hong. Defending Against Adversarial Attack in ECG Classification with Adversarial Distillation Training. arXiv preprint arXiv:2203.09487 (2022), https://arxiv.org/abs/2203.09487. Paper in submission. 
+
 ## Details of the codes
 
 *Training the classification DNNs*
